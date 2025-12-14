@@ -1,0 +1,10 @@
+login.html
+vbistro.html
+menu.html
+home.html
+about.html
+services.html
+foodmenu.html
+order.html
+contact.html
+logo.png
